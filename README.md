@@ -5,6 +5,7 @@
 [![GitHub release](https://img.shields.io/github/v/release/tutor-sicurezza/italian-ateco-database)](https://github.com/tutor-sicurezza/italian-ateco-database/releases)
 [![GitHub stars](https://img.shields.io/github/stars/tutor-sicurezza/italian-ateco-database?style=social)](https://github.com/tutor-sicurezza/italian-ateco-database/stargazers)
 [![CI](https://github.com/tutor-sicurezza/italian-ateco-database/actions/workflows/ci.yml/badge.svg)](https://github.com/tutor-sicurezza/italian-ateco-database/actions/workflows/ci.yml)
+[![Part of the tutor-sicurezza open-data ecosystem](https://img.shields.io/badge/ecosystem-tutor--sicurezza-blue.svg)](https://github.com/tutor-sicurezza)
 
 Dataset JSON dei codici **ATECO 2007** italiani con metadati orientati alla **sicurezza sul lavoro**: livello di rischio secondo l’Accordo Stato-Regioni 21/12/2011, corsi formativi obbligatori indicativi e riferimenti normativi applicabili.
 
@@ -102,6 +103,30 @@ PR benvenute, soprattutto per:
 - aggiungere sotto-categorie ATECO mancanti (es. 41.20, 43.21);
 - correggere mapping rischio-settore con riferimento a fonti normative;
 - aggiungere nuovi `leggiApplicabili` settoriali.
+
+## Related repositories
+
+Open dataset / tooling ecosystem for Italian workplace safety (D.Lgs 81/08) maintained by [@tutor-sicurezza](https://github.com/tutor-sicurezza):
+
+**Datasets**
+- [italian-province-regioni-dataset](https://github.com/tutor-sicurezza/italian-province-regioni-dataset) — Italian provinces + regions metadata
+- [comuni-italiani-istat](https://github.com/tutor-sicurezza/comuni-italiani-istat) — Italian municipalities with ISTAT codes
+- [dlgs-81-08-glossario](https://github.com/tutor-sicurezza/dlgs-81-08-glossario) — 218 D.Lgs 81/08 glossary terms
+- [dlgs-81-08-testo-unico](https://github.com/tutor-sicurezza/dlgs-81-08-testo-unico) — D.Lgs 81/08 structured by Title + key articles index
+- [haccp-italia-normativa-regionale](https://github.com/tutor-sicurezza/haccp-italia-normativa-regionale) — HACCP regional regulations (20 Italian regions)
+- [verifiche-periodiche-inail-attrezzature](https://github.com/tutor-sicurezza/verifiche-periodiche-inail-attrezzature) — Equipment subject to INAIL periodic verification
+- [accordi-stato-regioni-sicurezza-lavoro](https://github.com/tutor-sicurezza/accordi-stato-regioni-sicurezza-lavoro) — Stato-Regioni training agreements
+
+**Libraries / tools**
+- [scadenze-formazione-calculator](https://github.com/tutor-sicurezza/scadenze-formazione-calculator) — Training renewal schedule calculator
+- [next-seo-italian-helpers](https://github.com/tutor-sicurezza/next-seo-italian-helpers) — Next.js SEO helpers for Italian B2B
+- [mcp-italian-workplace-safety](https://github.com/tutor-sicurezza/mcp-italian-workplace-safety) — MCP server for Claude Desktop / Cursor / Cline
+
+**Online services**
+- [Public REST API + OpenAPI 3.1 + DCAT-AP-IT](https://123formazione.com/api/public/docs) — Free open data API
+- [Live documentation site (GitHub Pages)](https://tutor-sicurezza.github.io/accordi-stato-regioni-sicurezza-lavoro/) — Accordi Stato-Regioni
+
+All resources are MIT or CC-BY licensed and maintained as production-quality open data.
 
 ## Licenza
 
