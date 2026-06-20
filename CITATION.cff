@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+title: "italian-ateco-database: Codici ATECO 2007 con metadati per la sicurezza sul lavoro"
+abstract: "Dataset JSON dei codici ATECO 2007 italiani arricchito con metadati orientati alla sicurezza sul lavoro: livello di rischio secondo l'Accordo Stato-Regioni 21/12/2011, corsi formativi obbligatori indicativi e riferimenti normativi applicabili."
+authors:
+  - family-names: "Tutor Sicurezza"
+    given-names: "123Formazione"
+    website: "https://123formazione.com"
+repository-code: "https://github.com/tutor-sicurezza/italian-ateco-database"
+url: "https://123formazione.com"
+license: MIT
+date-released: "2026-06-20"
+version: "1.0.0"
+keywords:
+  - "italy"
+  - "italian-data"
+  - "ateco"
+  - "classification"
+  - "economic-data"
+  - "sicurezza-lavoro"
+  - "dlgs-81-08"
+  - "open-data"
+  - "dataset"
+  - "compliance"

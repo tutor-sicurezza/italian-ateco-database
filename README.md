@@ -2,6 +2,9 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![npm version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/tutor-sicurezza/italian-ateco-database)
+[![GitHub release](https://img.shields.io/github/v/release/tutor-sicurezza/italian-ateco-database)](https://github.com/tutor-sicurezza/italian-ateco-database/releases)
+[![GitHub stars](https://img.shields.io/github/stars/tutor-sicurezza/italian-ateco-database?style=social)](https://github.com/tutor-sicurezza/italian-ateco-database/stargazers)
+[![CI](https://github.com/tutor-sicurezza/italian-ateco-database/actions/workflows/ci.yml/badge.svg)](https://github.com/tutor-sicurezza/italian-ateco-database/actions/workflows/ci.yml)
 
 Dataset JSON dei codici **ATECO 2007** italiani con metadati orientati alla **sicurezza sul lavoro**: livello di rischio secondo l’Accordo Stato-Regioni 21/12/2011, corsi formativi obbligatori indicativi e riferimenti normativi applicabili.
 

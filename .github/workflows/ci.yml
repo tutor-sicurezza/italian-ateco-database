@@ -1,0 +1,23 @@
+name: CI
+
+on:
+  push:
+    branches: [main, master]
+  pull_request:
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - name: Install (if package-lock exists)
+        run: |
+          if [ -f package-lock.json ]; then npm ci --no-audit --no-fund; fi
+      - name: Validate JSON datasets
+        run: |
+          find data -name "*.json" -print0 | xargs -0 -I {} sh -c 'jq empty "{}" && echo "ok: {}"'
+      - name: Smoke import
+        run: node -e "const d = require('./index.js'); if (!d) process.exit(1); console.log('module loads ok');"
