@@ -1,0 +1,35 @@
+{
+  "name": "italian-ateco-database",
+  "version": "1.0.0",
+  "description": "Codici ATECO 2007 italiani con livello di rischio per la sicurezza sul lavoro (D.Lgs 81/08, Accordo Stato-Regioni 21/12/2011). Dataset JSON + TS types.",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "files": [
+    "data/",
+    "index.js",
+    "index.d.ts",
+    "README.md",
+    "LICENSE"
+  ],
+  "keywords": [
+    "ateco",
+    "ateco-2007",
+    "italia",
+    "sicurezza-lavoro",
+    "dlgs-81-08",
+    "rischio",
+    "compliance",
+    "dataset",
+    "json"
+  ],
+  "license": "MIT",
+  "author": "tutor-sicurezza",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tutor-sicurezza/italian-ateco-database"
+  },
+  "bugs": {
+    "url": "https://github.com/tutor-sicurezza/italian-ateco-database/issues"
+  },
+  "homepage": "https://github.com/tutor-sicurezza/italian-ateco-database#readme"
+}

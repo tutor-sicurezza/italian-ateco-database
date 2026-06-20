@@ -1,0 +1,1082 @@
+[
+  {
+    "codice": "01",
+    "slug": "01-agricoltura",
+    "settore": "Agricoltura, silvicoltura e pesca",
+    "descrizione": "Coltivazione di colture agricole, allevamento di animali, caccia e relativi servizi",
+    "descrizioneBreve": "Corsi obbligatori per aziende agricole, allevamenti e cooperative agricole",
+    "rischioAteco": "alto",
+    "corsiObbligatori": [
+      "sicurezza-lavoratori-alto",
+      "preposti",
+      "primo-soccorso-gruppo-a",
+      "antincendio-basso",
+      "movimentazione-manuale-carichi"
+    ],
+    "leggiApplicabili": [
+      "D.Lgs 81/08",
+      "D.Lgs 99/2004"
+    ]
+  },
+  {
+    "codice": "02",
+    "slug": "02-silvicoltura",
+    "settore": "Silvicoltura e utilizzo di aree forestali",
+    "descrizione": "Silvicoltura, taglio del bosco, raccolta di prodotti forestali",
+    "descrizioneBreve": "Corsi obbligatori per imprese boschive e forestali",
+    "rischioAteco": "molto-alto",
+    "corsiObbligatori": [
+      "sicurezza-lavoratori-alto",
+      "preposti",
+      "primo-soccorso-gruppo-a",
+      "antincendio-alto",
+      "lavori-quota"
+    ],
+    "leggiApplicabili": [
+      "D.Lgs 81/08"
+    ]
+  },
+  {
+    "codice": "03",
+    "slug": "03-pesca",
+    "settore": "Pesca e acquacoltura",
+    "descrizione": "Pesca in mare, in acque interne, acquacoltura",
+    "descrizioneBreve": "Corsi obbligatori per imprese di pesca e acquacoltura",
+    "rischioAteco": "alto",
+    "corsiObbligatori": [
+      "sicurezza-lavoratori-alto",
+      "primo-soccorso-gruppo-a",
+      "antincendio-medio"
+    ],
+    "leggiApplicabili": [
+      "D.Lgs 81/08",
+      "D.Lgs 271/1999"
+    ]
+  },
+  {
+    "codice": "05",
+    "slug": "05-estrazione-carbone",
+    "settore": "Estrazione di carbone",
+    "descrizione": "Estrazione di carbon fossile e lignite",
+    "descrizioneBreve": "Corsi obbligatori per attività estrattive minerarie",
+    "rischioAteco": "molto-alto",
+    "corsiObbligatori": [
+      "sicurezza-lavoratori-alto",
+      "preposti",
+      "dirigenti",
+      "primo-soccorso-gruppo-a",
+      "antincendio-alto",
+      "spazi-confinati",
+      "rischio-elettrico"
+    ],
+    "leggiApplicabili": [
+      "D.Lgs 81/08",
+      "D.Lgs 624/1996"
+    ]
+  },
+  {
+    "codice": "08",
+    "slug": "08-altre-industrie-estrattive",
+    "settore": "Altre industrie estrattive",
+    "descrizione": "Estrazione di pietra, sabbia, argilla, minerali",
+    "descrizioneBreve": "Corsi obbligatori per cave e attività estrattive",
+    "rischioAteco": "molto-alto",
+    "corsiObbligatori": [
+      "sicurezza-lavoratori-alto",
+      "preposti",
+      "primo-soccorso-gruppo-a",
+      "antincendio-alto",
+      "carrelli-elevatori"
+    ],
+    "leggiApplicabili": [
+      "D.Lgs 81/08",
+      "D.Lgs 624/1996"
+    ]
+  },
+  {
+    "codice": "10",
+    "slug": "10-industrie-alimentari",
+    "settore": "Industrie alimentari",
+    "descrizione": "Lavorazione e conservazione di carne, pesce, frutta, verdura, oli, prodotti lattiero-caseari, cereali",
+    "descrizioneBreve": "Corsi obbligatori per industrie alimentari e di trasformazione",
+    "rischioAteco": "medio",
+    "corsiObbligatori": [
+      "sicurezza-lavoratori-medio",
+      "preposti",
+      "primo-soccorso-gruppo-a",
+      "antincendio-medio",
+      "haccp",
+      "movimentazione-manuale-carichi",
+      "carrelli-elevatori"
+    ],
+    "leggiApplicabili": [
+      "D.Lgs 81/08",
+      "Reg. CE 852/2004",
+      "D.Lgs 193/2007"
+    ]
+  },
+  {
+    "codice": "11",
+    "slug": "11-bevande",
+    "settore": "Industria delle bevande",
+    "descrizione": "Produzione di bevande alcoliche e analcoliche, vino, birra, acque minerali",
+    "descrizioneBreve": "Corsi obbligatori per cantine, birrifici e industrie delle bevande",
+    "rischioAteco": "medio",
+    "corsiObbligatori": [
+      "sicurezza-lavoratori-medio",
+      "preposti",
+      "primo-soccorso-gruppo-a",
+      "antincendio-medio",
+      "haccp",
+      "movimentazione-manuale-carichi"
+    ],
+    "leggiApplicabili": [
+      "D.Lgs 81/08",
+      "Reg. CE 852/2004"
+    ]
+  },
+  {
+    "codice": "13",
+    "slug": "13-tessile",
+    "settore": "Industrie tessili",
+    "descrizione": "Preparazione e filatura di fibre tessili, tessitura, finissaggio",
+    "descrizioneBreve": "Corsi obbligatori per aziende tessili e manifatturiere del tessuto",
+    "rischioAteco": "medio",
+    "corsiObbligatori": [
+      "sicurezza-lavoratori-medio",
+      "preposti",
+      "primo-soccorso-gruppo-a",
+      "antincendio-medio",
+      "movimentazione-manuale-carichi"
+    ],
+    "leggiApplicabili": [
+      "D.Lgs 81/08"
+    ]
+  },
+  {
+    "codice": "14",
+    "slug": "14-abbigliamento",
+    "settore": "Confezione di articoli di abbigliamento",
+    "descrizione": "Confezione di abbigliamento in tessuto, pelle, pelliccia",
+    "descrizioneBreve": "Corsi obbligatori per aziende di abbigliamento e confezioni",
+    "rischioAteco": "basso",
+    "corsiObbligatori": [
+      "sicurezza-lavoratori-base",
+      "preposti",
+      "primo-soccorso-gruppo-b",
+      "antincendio-basso",
+      "videoterminali"
+    ],
+    "leggiApplicabili": [
+      "D.Lgs 81/08"
+    ]
+  },
+  {
+    "codice": "16",
+    "slug": "16-legno",
+    "settore": "Industria del legno e dei prodotti in legno",
+    "descrizione": "Taglio e piallatura del legno, fabbricazione di prodotti in legno, sughero, paglia",
+    "descrizioneBreve": "Corsi obbligatori per falegnamerie, segherie e industrie del legno",
+    "rischioAteco": "alto",
+    "corsiObbligatori": [
+      "sicurezza-lavoratori-alto",
+      "preposti",
+      "primo-soccorso-gruppo-a",
+      "antincendio-alto",
+      "movimentazione-manuale-carichi",
+      "carrelli-elevatori"
+    ],
+    "leggiApplicabili": [
+      "D.Lgs 81/08"
+    ]
+  },
+  {
+    "codice": "17",
+    "slug": "17-carta",
+    "settore": "Fabbricazione di carta e di prodotti di carta",
+    "descrizione": "Fabbricazione di pasta-carta, carta, cartone e prodotti di carta",
+    "descrizioneBreve": "Corsi obbligatori per cartiere e industrie della carta",
+    "rischioAteco": "medio",
+    "corsiObbligatori": [
+      "sicurezza-lavoratori-medio",
+      "preposti",
+      "primo-soccorso-gruppo-a",
+      "antincendio-medio",
+      "movimentazione-manuale-carichi"
+    ],
+    "leggiApplicabili": [
+      "D.Lgs 81/08"
+    ]
+  },
+  {
+    "codice": "18",
+    "slug": "18-stampa",
+    "settore": "Stampa e riproduzione di supporti registrati",
+    "descrizione": "Stampa, legatoria, finitura, riproduzione di supporti registrati",
+    "descrizioneBreve": "Corsi obbligatori per tipografie, stamperie e industrie grafiche",
+    "rischioAteco": "medio",
+    "corsiObbligatori": [
+      "sicurezza-lavoratori-medio",
+      "preposti",
+      "primo-soccorso-gruppo-b",
+      "antincendio-basso",
+      "videoterminali"
+    ],
+    "leggiApplicabili": [
+      "D.Lgs 81/08"
+    ]
+  },
+  {
+    "codice": "20",
+    "slug": "20-chimica",
+    "settore": "Fabbricazione di prodotti chimici",
+    "descrizione": "Fabbricazione di prodotti chimici di base, fertilizzanti, materie plastiche, vernici",
+    "descrizioneBreve": "Corsi obbligatori per industrie chimiche e petrolchimiche",
+    "rischioAteco": "molto-alto",
+    "corsiObbligatori": [
+      "sicurezza-lavoratori-alto",
+      "preposti",
+      "dirigenti",
+      "primo-soccorso-gruppo-a",
+      "antincendio-alto",
+      "rischio-elettrico",
+      "spazi-confinati"
+    ],
+    "leggiApplicabili": [
+      "D.Lgs 81/08",
+      "D.Lgs 105/2015 (Seveso III)"
+    ]
+  },
+  {
+    "codice": "22",
+    "slug": "22-plastica-gomma",
+    "settore": "Fabbricazione di articoli in gomma e materie plastiche",
+    "descrizione": "Fabbricazione di pneumatici, altri prodotti in gomma, materie plastiche",
+    "descrizioneBreve": "Corsi obbligatori per industrie della plastica e della gomma",
+    "rischioAteco": "medio",
+    "corsiObbligatori": [
+      "sicurezza-lavoratori-medio",
+      "preposti",
+      "primo-soccorso-gruppo-a",
+      "antincendio-medio",
+      "movimentazione-manuale-carichi"
+    ],
+    "leggiApplicabili": [
+      "D.Lgs 81/08"
+    ]
+  },
+  {
+    "codice": "23",
+    "slug": "23-minerali-non-metalliferi",
+    "settore": "Fabbricazione di altri prodotti della lavorazione di minerali non metalliferi",
+    "descrizione": "Vetro, ceramica, porcellana, cemento, calce, gesso, mattoni",
+    "descrizioneBreve": "Corsi obbligatori per ceramiche, vetrerie e industrie dei minerali",
+    "rischioAteco": "alto",
+    "corsiObbligatori": [
+      "sicurezza-lavoratori-alto",
+      "preposti",
+      "primo-soccorso-gruppo-a",
+      "antincendio-alto",
+      "movimentazione-manuale-carichi",
+      "carrelli-elevatori"
+    ],
+    "leggiApplicabili": [
+      "D.Lgs 81/08"
+    ]
+  },
+  {
+    "codice": "24",
+    "slug": "24-metallurgia",
+    "settore": "Metallurgia",
+    "descrizione": "Siderurgia, produzione di metalli non ferrosi, fusione di metalli",
+    "descrizioneBreve": "Corsi obbligatori per fonderie, acciaierie e industrie metallurgiche",
+    "rischioAteco": "molto-alto",
+    "corsiObbligatori": [
+      "sicurezza-lavoratori-alto",
+      "preposti",
+      "dirigenti",
+      "primo-soccorso-gruppo-a",
+      "antincendio-alto",
+      "rischio-elettrico",
+      "movimentazione-manuale-carichi",
+      "carroponte"
+    ],
+    "leggiApplicabili": [
+      "D.Lgs 81/08"
+    ]
+  },
+  {
+    "codice": "25",
+    "slug": "25-prodotti-in-metallo",
+    "settore": "Fabbricazione di prodotti in metallo",
+    "descrizione": "Strutture metalliche, cisterne, serbatoi, generatori di vapore, armi, coltelleria, utensili",
+    "descrizioneBreve": "Corsi obbligatori per officine meccaniche, carpenterie e lavorazioni metalliche",
+    "rischioAteco": "alto",
+    "corsiObbligatori": [
+      "sicurezza-lavoratori-alto",
+      "preposti",
+      "primo-soccorso-gruppo-a",
+      "antincendio-alto",
+      "movimentazione-manuale-carichi",
+      "carrelli-elevatori",
+      "carroponte"
+    ],
+    "leggiApplicabili": [
+      "D.Lgs 81/08"
+    ]
+  },
+  {
+    "codice": "26",
+    "slug": "26-elettronica",
+    "settore": "Fabbricazione di computer e prodotti di elettronica e ottica",
+    "descrizione": "Computer, prodotti elettronici, ottici, strumenti di misura",
+    "descrizioneBreve": "Corsi obbligatori per industrie elettroniche e informatiche",
+    "rischioAteco": "medio",
+    "corsiObbligatori": [
+      "sicurezza-lavoratori-medio",
+      "preposti",
+      "primo-soccorso-gruppo-b",
+      "antincendio-basso",
+      "rischio-elettrico",
+      "videoterminali"
+    ],
+    "leggiApplicabili": [
+      "D.Lgs 81/08"
+    ]
+  },
+  {
+    "codice": "27",
+    "slug": "27-apparecchiature-elettriche",
+    "settore": "Fabbricazione di apparecchiature elettriche",
+    "descrizione": "Motori elettrici, generatori, trasformatori, apparecchi per illuminazione",
+    "descrizioneBreve": "Corsi obbligatori per industrie elettrotecniche e di apparecchiature elettriche",
+    "rischioAteco": "alto",
+    "corsiObbligatori": [
+      "sicurezza-lavoratori-alto",
+      "preposti",
+      "primo-soccorso-gruppo-a",
+      "antincendio-medio",
+      "rischio-elettrico",
+      "movimentazione-manuale-carichi"
+    ],
+    "leggiApplicabili": [
+      "D.Lgs 81/08",
+      "CEI 11-27"
+    ]
+  },
+  {
+    "codice": "28",
+    "slug": "28-macchinari",
+    "settore": "Fabbricazione di macchinari e apparecchiature",
+    "descrizione": "Macchine per uso generale e speciale, macchine agricole, utensili",
+    "descrizioneBreve": "Corsi obbligatori per costruttori di macchine e industrie meccaniche",
+    "rischioAteco": "alto",
+    "corsiObbligatori": [
+      "sicurezza-lavoratori-alto",
+      "preposti",
+      "primo-soccorso-gruppo-a",
+      "antincendio-medio",
+      "movimentazione-manuale-carichi",
+      "carrelli-elevatori",
+      "carroponte"
+    ],
+    "leggiApplicabili": [
+      "D.Lgs 81/08"
+    ]
+  },
+  {
+    "codice": "29",
+    "slug": "29-autoveicoli",
+    "settore": "Fabbricazione di autoveicoli, rimorchi e semirimorchi",
+    "descrizione": "Autoveicoli, carrozzerie, parti e accessori per autoveicoli",
+    "descrizioneBreve": "Corsi obbligatori per industrie automotive e componentistica auto",
+    "rischioAteco": "alto",
+    "corsiObbligatori": [
+      "sicurezza-lavoratori-alto",
+      "preposti",
+      "dirigenti",
+      "primo-soccorso-gruppo-a",
+      "antincendio-alto",
+      "movimentazione-manuale-carichi",
+      "carrelli-elevatori",
+      "carroponte"
+    ],
+    "leggiApplicabili": [
+      "D.Lgs 81/08"
+    ]
+  },
+  {
+    "codice": "33",
+    "slug": "33-riparazione-manutenzione",
+    "settore": "Riparazione, manutenzione e installazione di macchine e apparecchiature",
+    "descrizione": "Riparazione di prodotti in metallo, macchine, apparecchiature elettroniche",
+    "descrizioneBreve": "Corsi obbligatori per imprese di manutenzione e riparazione industriale",
+    "rischioAteco": "alto",
+    "corsiObbligatori": [
+      "sicurezza-lavoratori-alto",
+      "preposti",
+      "primo-soccorso-gruppo-a",
+      "antincendio-medio",
+      "rischio-elettrico",
+      "movimentazione-manuale-carichi"
+    ],
+    "leggiApplicabili": [
+      "D.Lgs 81/08"
+    ]
+  },
+  {
+    "codice": "35",
+    "slug": "35-energia-elettrica",
+    "settore": "Fornitura di energia elettrica, gas, vapore e aria condizionata",
+    "descrizione": "Produzione, trasmissione e distribuzione di energia elettrica, gas, vapore",
+    "descrizioneBreve": "Corsi obbligatori per aziende energetiche e distribuzione elettrica",
+    "rischioAteco": "molto-alto",
+    "corsiObbligatori": [
+      "sicurezza-lavoratori-alto",
+      "preposti",
+      "dirigenti",
+      "primo-soccorso-gruppo-a",
+      "antincendio-alto",
+      "rischio-elettrico",
+      "spazi-confinati"
+    ],
+    "leggiApplicabili": [
+      "D.Lgs 81/08",
+      "CEI 11-27",
+      "D.Lgs 93/2011"
+    ]
+  },
+  {
+    "codice": "36",
+    "slug": "36-raccolta-trattamento-acqua",
+    "settore": "Raccolta, trattamento e fornitura di acqua",
+    "descrizione": "Raccolta, trattamento, distribuzione di acqua",
+    "descrizioneBreve": "Corsi obbligatori per gestori di acquedotti e impianti idrici",
+    "rischioAteco": "alto",
+    "corsiObbligatori": [
+      "sicurezza-lavoratori-alto",
+      "preposti",
+      "primo-soccorso-gruppo-a",
+      "antincendio-medio",
+      "spazi-confinati",
+      "rischio-elettrico"
+    ],
+    "leggiApplicabili": [
+      "D.Lgs 81/08"
+    ]
+  },
+  {
+    "codice": "38",
+    "slug": "38-gestione-rifiuti",
+    "settore": "Raccolta, trattamento e smaltimento dei rifiuti",
+    "descrizione": "Raccolta, trattamento, smaltimento rifiuti, recupero materiali",
+    "descrizioneBreve": "Corsi obbligatori per aziende di raccolta e smaltimento rifiuti",
+    "rischioAteco": "molto-alto",
+    "corsiObbligatori": [
+      "sicurezza-lavoratori-alto",
+      "preposti",
+      "primo-soccorso-gruppo-a",
+      "antincendio-alto",
+      "spazi-confinati",
+      "movimentazione-manuale-carichi",
+      "carrelli-elevatori"
+    ],
+    "leggiApplicabili": [
+      "D.Lgs 81/08",
+      "D.Lgs 152/2006"
+    ]
+  },
+  {
+    "codice": "41",
+    "slug": "41-costruzioni-edifici",
+    "settore": "Costruzione di edifici",
+    "descrizione": "Costruzione di edifici residenziali e non residenziali",
+    "descrizioneBreve": "Corsi obbligatori per imprese edili e costruttori",
+    "rischioAteco": "molto-alto",
+    "corsiObbligatori": [
+      "sicurezza-lavoratori-alto",
+      "preposti",
+      "dirigenti",
+      "primo-soccorso-gruppo-a",
+      "antincendio-alto",
+      "lavori-quota",
+      "cantieri-temporanei",
+      "movimentazione-manuale-carichi",
+      "carrelli-elevatori",
+      "ple"
+    ],
+    "leggiApplicabili": [
+      "D.Lgs 81/08 Titolo IV",
+      "D.Lgs 494/1996"
+    ]
+  },
+  {
+    "codice": "42",
+    "slug": "42-ingegneria-civile",
+    "settore": "Ingegneria civile",
+    "descrizione": "Costruzione di strade, autostrade, ferrovie, ponti, gallerie, reti",
+    "descrizioneBreve": "Corsi obbligatori per imprese di costruzione strade, ponti e infrastrutture",
+    "rischioAteco": "molto-alto",
+    "corsiObbligatori": [
+      "sicurezza-lavoratori-alto",
+      "preposti",
+      "dirigenti",
+      "primo-soccorso-gruppo-a",
+      "antincendio-alto",
+      "lavori-quota",
+      "cantieri-temporanei",
+      "spazi-confinati",
+      "carrelli-elevatori",
+      "ple"
+    ],
+    "leggiApplicabili": [
+      "D.Lgs 81/08 Titolo IV"
+    ]
+  },
+  {
+    "codice": "43",
+    "slug": "43-lavori-specializzati-costruzione",
+    "settore": "Lavori di costruzione specializzati",
+    "descrizione": "Demolizione, preparazione del cantiere, installazione impianti, completamento edifici",
+    "descrizioneBreve": "Corsi obbligatori per installatori, idraulici, elettricisti e impiantisti",
+    "rischioAteco": "molto-alto",
+    "corsiObbligatori": [
+      "sicurezza-lavoratori-alto",
+      "preposti",
+      "primo-soccorso-gruppo-a",
+      "antincendio-alto",
+      "lavori-quota",
+      "cantieri-temporanei",
+      "rischio-elettrico",
+      "amianto"
+    ],
+    "leggiApplicabili": [
+      "D.Lgs 81/08 Titolo IV"
+    ]
+  },
+  {
+    "codice": "45",
+    "slug": "45-commercio-autoveicoli",
+    "settore": "Commercio all’ingrosso e al dettaglio e riparazione di autoveicoli",
+    "descrizione": "Commercio di autoveicoli, motocicli, riparazione e manutenzione",
+    "descrizioneBreve": "Corsi obbligatori per concessionarie, officine e commercio auto",
+    "rischioAteco": "medio",
+    "corsiObbligatori": [
+      "sicurezza-lavoratori-medio",
+      "preposti",
+      "primo-soccorso-gruppo-b",
+      "antincendio-medio",
+      "movimentazione-manuale-carichi"
+    ],
+    "leggiApplicabili": [
+      "D.Lgs 81/08"
+    ]
+  },
+  {
+    "codice": "46",
+    "slug": "46-commercio-ingrosso",
+    "settore": "Commercio all’ingrosso",
+    "descrizione": "Commercio all’ingrosso di prodotti agricoli, alimentari, non alimentari",
+    "descrizioneBreve": "Corsi obbligatori per magazzini, depositi e commercio all’ingrosso",
+    "rischioAteco": "medio",
+    "corsiObbligatori": [
+      "sicurezza-lavoratori-medio",
+      "preposti",
+      "primo-soccorso-gruppo-b",
+      "antincendio-basso",
+      "movimentazione-manuale-carichi",
+      "carrelli-elevatori"
+    ],
+    "leggiApplicabili": [
+      "D.Lgs 81/08"
+    ]
+  },
+  {
+    "codice": "47",
+    "slug": "47-commercio-dettaglio",
+    "settore": "Commercio al dettaglio",
+    "descrizione": "Negozi, supermercati, ipermercati, commercio al dettaglio",
+    "descrizioneBreve": "Corsi obbligatori per negozi, supermercati e commercio al dettaglio",
+    "rischioAteco": "basso",
+    "corsiObbligatori": [
+      "sicurezza-lavoratori-base",
+      "preposti",
+      "primo-soccorso-gruppo-b",
+      "antincendio-basso",
+      "movimentazione-manuale-carichi"
+    ],
+    "leggiApplicabili": [
+      "D.Lgs 81/08"
+    ]
+  },
+  {
+    "codice": "49",
+    "slug": "49-trasporto-terrestre",
+    "settore": "Trasporto terrestre e trasporto mediante condotte",
+    "descrizione": "Trasporto ferroviario, trasporto su strada, trasporto mediante condotte",
+    "descrizioneBreve": "Corsi obbligatori per autotrasportatori e imprese di trasporto",
+    "rischioAteco": "alto",
+    "corsiObbligatori": [
+      "sicurezza-lavoratori-alto",
+      "preposti",
+      "primo-soccorso-gruppo-a",
+      "antincendio-medio",
+      "movimentazione-manuale-carichi"
+    ],
+    "leggiApplicabili": [
+      "D.Lgs 81/08",
+      "D.Lgs 286/2005"
+    ]
+  },
+  {
+    "codice": "52",
+    "slug": "52-magazzinaggio-logistica",
+    "settore": "Magazzinaggio e attività di supporto ai trasporti",
+    "descrizione": "Magazzinaggio, deposito, movimentazione merci, gestione infrastrutture di trasporto",
+    "descrizioneBreve": "Corsi obbligatori per magazzini, centri logistici e operatori di movimentazione",
+    "rischioAteco": "alto",
+    "corsiObbligatori": [
+      "sicurezza-lavoratori-alto",
+      "preposti",
+      "primo-soccorso-gruppo-a",
+      "antincendio-medio",
+      "movimentazione-manuale-carichi",
+      "carrelli-elevatori",
+      "ple"
+    ],
+    "leggiApplicabili": [
+      "D.Lgs 81/08"
+    ]
+  },
+  {
+    "codice": "55",
+    "slug": "55-alloggio",
+    "settore": "Alloggio",
+    "descrizione": "Hotel, motel, ostelli, campeggi, villaggi turistici",
+    "descrizioneBreve": "Corsi obbligatori per hotel, alberghi e strutture ricettive",
+    "rischioAteco": "basso",
+    "corsiObbligatori": [
+      "sicurezza-lavoratori-base",
+      "preposti",
+      "primo-soccorso-gruppo-b",
+      "antincendio-medio",
+      "haccp",
+      "movimentazione-manuale-carichi"
+    ],
+    "leggiApplicabili": [
+      "D.Lgs 81/08",
+      "Reg. CE 852/2004"
+    ]
+  },
+  {
+    "codice": "56",
+    "slug": "56-ristorazione",
+    "settore": "Attività dei servizi di ristorazione",
+    "descrizione": "Ristoranti, bar, mense, catering, gelaterie, pizzerie",
+    "descrizioneBreve": "Corsi obbligatori per ristoranti, bar, pizzerie e attività di ristorazione",
+    "rischioAteco": "medio",
+    "corsiObbligatori": [
+      "sicurezza-lavoratori-medio",
+      "preposti",
+      "primo-soccorso-gruppo-b",
+      "antincendio-medio",
+      "haccp",
+      "movimentazione-manuale-carichi"
+    ],
+    "leggiApplicabili": [
+      "D.Lgs 81/08",
+      "Reg. CE 852/2004",
+      "D.Lgs 193/2007"
+    ]
+  },
+  {
+    "codice": "62",
+    "slug": "62-informatica",
+    "settore": "Produzione di software, consulenza informatica",
+    "descrizione": "Sviluppo software, consulenza informatica, gestione di strutture informatizzate",
+    "descrizioneBreve": "Corsi obbligatori per aziende IT, software house e consulenti informatici",
+    "rischioAteco": "basso",
+    "corsiObbligatori": [
+      "sicurezza-lavoratori-base",
+      "primo-soccorso-gruppo-b",
+      "antincendio-basso",
+      "videoterminali",
+      "stress-lavoro-correlato",
+      "privacy-gdpr"
+    ],
+    "leggiApplicabili": [
+      "D.Lgs 81/08",
+      "Reg. UE 2016/679"
+    ]
+  },
+  {
+    "codice": "63",
+    "slug": "63-servizi-informativi",
+    "settore": "Attività dei servizi d’informazione",
+    "descrizione": "Elaborazione dati, hosting, portali web, agenzie di stampa",
+    "descrizioneBreve": "Corsi obbligatori per data center, hosting e servizi informativi",
+    "rischioAteco": "basso",
+    "corsiObbligatori": [
+      "sicurezza-lavoratori-base",
+      "primo-soccorso-gruppo-b",
+      "antincendio-basso",
+      "videoterminali",
+      "privacy-gdpr"
+    ],
+    "leggiApplicabili": [
+      "D.Lgs 81/08",
+      "Reg. UE 2016/679"
+    ]
+  },
+  {
+    "codice": "64",
+    "slug": "64-servizi-finanziari",
+    "settore": "Attività di servizi finanziari",
+    "descrizione": "Banche, intermediazione monetaria, fondi di investimento",
+    "descrizioneBreve": "Corsi obbligatori per banche, assicurazioni e servizi finanziari",
+    "rischioAteco": "basso",
+    "corsiObbligatori": [
+      "sicurezza-lavoratori-base",
+      "primo-soccorso-gruppo-b",
+      "antincendio-basso",
+      "videoterminali",
+      "stress-lavoro-correlato",
+      "privacy-gdpr"
+    ],
+    "leggiApplicabili": [
+      "D.Lgs 81/08",
+      "Reg. UE 2016/679"
+    ]
+  },
+  {
+    "codice": "68",
+    "slug": "68-immobiliare",
+    "settore": "Attività immobiliari",
+    "descrizione": "Compravendita, locazione, gestione di beni immobili",
+    "descrizioneBreve": "Corsi obbligatori per agenzie immobiliari e gestori di immobili",
+    "rischioAteco": "basso",
+    "corsiObbligatori": [
+      "sicurezza-lavoratori-base",
+      "primo-soccorso-gruppo-b",
+      "antincendio-basso",
+      "videoterminali",
+      "privacy-gdpr"
+    ],
+    "leggiApplicabili": [
+      "D.Lgs 81/08",
+      "Reg. UE 2016/679"
+    ]
+  },
+  {
+    "codice": "69",
+    "slug": "69-attivita-legali-contabili",
+    "settore": "Attività legali e contabilità",
+    "descrizione": "Studi legali, notai, commercialisti, consulenti del lavoro",
+    "descrizioneBreve": "Corsi obbligatori per studi legali, commercialisti e consulenti",
+    "rischioAteco": "basso",
+    "corsiObbligatori": [
+      "sicurezza-lavoratori-base",
+      "primo-soccorso-gruppo-b",
+      "antincendio-basso",
+      "videoterminali",
+      "stress-lavoro-correlato",
+      "privacy-gdpr"
+    ],
+    "leggiApplicabili": [
+      "D.Lgs 81/08",
+      "Reg. UE 2016/679"
+    ]
+  },
+  {
+    "codice": "70",
+    "slug": "70-direzione-aziendale",
+    "settore": "Attività di direzione aziendale e di consulenza gestionale",
+    "descrizione": "Holding, consulenza gestionale, direzione aziendale",
+    "descrizioneBreve": "Corsi obbligatori per holding, consulenti e direzioni aziendali",
+    "rischioAteco": "basso",
+    "corsiObbligatori": [
+      "sicurezza-lavoratori-base",
+      "dirigenti",
+      "primo-soccorso-gruppo-b",
+      "antincendio-basso",
+      "videoterminali",
+      "privacy-gdpr"
+    ],
+    "leggiApplicabili": [
+      "D.Lgs 81/08",
+      "Reg. UE 2016/679"
+    ]
+  },
+  {
+    "codice": "71",
+    "slug": "71-ingegneria-architettura",
+    "settore": "Attività degli studi di architettura e d’ingegneria",
+    "descrizione": "Studi di architettura, ingegneria, collaudi, analisi tecniche",
+    "descrizioneBreve": "Corsi obbligatori per studi di ingegneria, architettura e progettazione",
+    "rischioAteco": "basso",
+    "corsiObbligatori": [
+      "sicurezza-lavoratori-base",
+      "primo-soccorso-gruppo-b",
+      "antincendio-basso",
+      "videoterminali",
+      "privacy-gdpr"
+    ],
+    "leggiApplicabili": [
+      "D.Lgs 81/08"
+    ]
+  },
+  {
+    "codice": "77",
+    "slug": "77-noleggio",
+    "settore": "Attività di noleggio e leasing operativo",
+    "descrizione": "Noleggio di autoveicoli, macchine, attrezzature, beni personali",
+    "descrizioneBreve": "Corsi obbligatori per aziende di noleggio e leasing",
+    "rischioAteco": "basso",
+    "corsiObbligatori": [
+      "sicurezza-lavoratori-base",
+      "primo-soccorso-gruppo-b",
+      "antincendio-basso",
+      "movimentazione-manuale-carichi"
+    ],
+    "leggiApplicabili": [
+      "D.Lgs 81/08"
+    ]
+  },
+  {
+    "codice": "78",
+    "slug": "78-agenzie-lavoro",
+    "settore": "Attività di ricerca, selezione, fornitura di personale",
+    "descrizione": "Agenzie per il lavoro, somministrazione, ricerca e selezione del personale",
+    "descrizioneBreve": "Corsi obbligatori per agenzie per il lavoro e HR",
+    "rischioAteco": "basso",
+    "corsiObbligatori": [
+      "sicurezza-lavoratori-base",
+      "primo-soccorso-gruppo-b",
+      "antincendio-basso",
+      "videoterminali",
+      "privacy-gdpr",
+      "stress-lavoro-correlato"
+    ],
+    "leggiApplicabili": [
+      "D.Lgs 81/08",
+      "D.Lgs 276/2003",
+      "Reg. UE 2016/679"
+    ]
+  },
+  {
+    "codice": "80",
+    "slug": "80-vigilanza-sicurezza",
+    "settore": "Servizi di vigilanza e investigazione",
+    "descrizione": "Guardie giurate, vigilanza privata, investigazioni",
+    "descrizioneBreve": "Corsi obbligatori per istituti di vigilanza e sicurezza privata",
+    "rischioAteco": "alto",
+    "corsiObbligatori": [
+      "sicurezza-lavoratori-alto",
+      "preposti",
+      "primo-soccorso-gruppo-a",
+      "antincendio-medio",
+      "stress-lavoro-correlato"
+    ],
+    "leggiApplicabili": [
+      "D.Lgs 81/08"
+    ]
+  },
+  {
+    "codice": "81",
+    "slug": "81-pulizie-giardinaggio",
+    "settore": "Attività di servizi per edifici e paesaggio",
+    "descrizione": "Pulizie, disinfestazione, giardinaggio, manutenzione del verde",
+    "descrizioneBreve": "Corsi obbligatori per imprese di pulizie, giardinaggio e facility management",
+    "rischioAteco": "medio",
+    "corsiObbligatori": [
+      "sicurezza-lavoratori-medio",
+      "preposti",
+      "primo-soccorso-gruppo-b",
+      "antincendio-basso",
+      "movimentazione-manuale-carichi"
+    ],
+    "leggiApplicabili": [
+      "D.Lgs 81/08"
+    ]
+  },
+  {
+    "codice": "84",
+    "slug": "84-pubblica-amministrazione",
+    "settore": "Amministrazione pubblica e difesa",
+    "descrizione": "Enti pubblici, comuni, province, regioni, ministeri",
+    "descrizioneBreve": "Corsi obbligatori per enti pubblici, comuni, province e PA",
+    "rischioAteco": "basso",
+    "corsiObbligatori": [
+      "sicurezza-lavoratori-base",
+      "preposti",
+      "dirigenti",
+      "primo-soccorso-gruppo-b",
+      "antincendio-basso",
+      "videoterminali",
+      "privacy-gdpr",
+      "stress-lavoro-correlato"
+    ],
+    "leggiApplicabili": [
+      "D.Lgs 81/08",
+      "Reg. UE 2016/679",
+      "D.Lgs 33/2013"
+    ]
+  },
+  {
+    "codice": "85",
+    "slug": "85-istruzione",
+    "settore": "Istruzione",
+    "descrizione": "Scuole, università, formazione professionale, istruzione per adulti",
+    "descrizioneBreve": "Corsi obbligatori per scuole, università e istituti di formazione",
+    "rischioAteco": "basso",
+    "corsiObbligatori": [
+      "sicurezza-lavoratori-base",
+      "preposti",
+      "primo-soccorso-gruppo-b",
+      "antincendio-basso",
+      "videoterminali",
+      "stress-lavoro-correlato",
+      "privacy-gdpr"
+    ],
+    "leggiApplicabili": [
+      "D.Lgs 81/08",
+      "Reg. UE 2016/679"
+    ]
+  },
+  {
+    "codice": "86",
+    "slug": "86-sanita",
+    "settore": "Assistenza sanitaria",
+    "descrizione": "Ospedali, cliniche, ambulatori, studi medici, laboratori",
+    "descrizioneBreve": "Corsi obbligatori per ospedali, cliniche e operatori sanitari",
+    "rischioAteco": "alto",
+    "corsiObbligatori": [
+      "sicurezza-lavoratori-alto",
+      "preposti",
+      "dirigenti",
+      "primo-soccorso-gruppo-a",
+      "antincendio-medio",
+      "movimentazione-manuale-carichi",
+      "stress-lavoro-correlato",
+      "privacy-gdpr"
+    ],
+    "leggiApplicabili": [
+      "D.Lgs 81/08",
+      "Reg. UE 2016/679",
+      "D.Lgs 502/1992"
+    ]
+  },
+  {
+    "codice": "87",
+    "slug": "87-assistenza-residenziale",
+    "settore": "Servizi di assistenza sociale residenziale",
+    "descrizione": "Case di cura, RSA, case di riposo, strutture per disabili",
+    "descrizioneBreve": "Corsi obbligatori per RSA, case di riposo e assistenza residenziale",
+    "rischioAteco": "alto",
+    "corsiObbligatori": [
+      "sicurezza-lavoratori-alto",
+      "preposti",
+      "primo-soccorso-gruppo-a",
+      "antincendio-medio",
+      "movimentazione-manuale-carichi",
+      "stress-lavoro-correlato",
+      "privacy-gdpr",
+      "haccp"
+    ],
+    "leggiApplicabili": [
+      "D.Lgs 81/08",
+      "Reg. UE 2016/679",
+      "Reg. CE 852/2004"
+    ]
+  },
+  {
+    "codice": "88",
+    "slug": "88-assistenza-sociale",
+    "settore": "Assistenza sociale non residenziale",
+    "descrizione": "Asili nido, centri diurni, assistenza domiciliare, servizi sociali",
+    "descrizioneBreve": "Corsi obbligatori per asili nido, centri diurni e servizi sociali",
+    "rischioAteco": "medio",
+    "corsiObbligatori": [
+      "sicurezza-lavoratori-medio",
+      "preposti",
+      "primo-soccorso-gruppo-b",
+      "antincendio-basso",
+      "stress-lavoro-correlato",
+      "privacy-gdpr"
+    ],
+    "leggiApplicabili": [
+      "D.Lgs 81/08",
+      "Reg. UE 2016/679"
+    ]
+  },
+  {
+    "codice": "90",
+    "slug": "90-attivita-creative",
+    "settore": "Attività creative, artistiche e di intrattenimento",
+    "descrizione": "Teatri, cinema, concerti, musei, biblioteche, parchi divertimento",
+    "descrizioneBreve": "Corsi obbligatori per teatri, cinema, eventi e intrattenimento",
+    "rischioAteco": "medio",
+    "corsiObbligatori": [
+      "sicurezza-lavoratori-medio",
+      "preposti",
+      "primo-soccorso-gruppo-b",
+      "antincendio-medio",
+      "movimentazione-manuale-carichi"
+    ],
+    "leggiApplicabili": [
+      "D.Lgs 81/08"
+    ]
+  },
+  {
+    "codice": "93",
+    "slug": "93-sport",
+    "settore": "Attività sportive, di intrattenimento e di divertimento",
+    "descrizione": "Palestre, piscine, impianti sportivi, parchi divertimento",
+    "descrizioneBreve": "Corsi obbligatori per palestre, piscine e impianti sportivi",
+    "rischioAteco": "medio",
+    "corsiObbligatori": [
+      "sicurezza-lavoratori-medio",
+      "preposti",
+      "primo-soccorso-gruppo-a",
+      "antincendio-medio",
+      "movimentazione-manuale-carichi"
+    ],
+    "leggiApplicabili": [
+      "D.Lgs 81/08"
+    ]
+  },
+  {
+    "codice": "95",
+    "slug": "95-riparazione-computer",
+    "settore": "Riparazione di computer e di beni per uso personale e per la casa",
+    "descrizione": "Riparazione di computer, telefoni, elettrodomestici, orologi",
+    "descrizioneBreve": "Corsi obbligatori per centri di riparazione computer e elettronica",
+    "rischioAteco": "basso",
+    "corsiObbligatori": [
+      "sicurezza-lavoratori-base",
+      "primo-soccorso-gruppo-b",
+      "antincendio-basso",
+      "rischio-elettrico"
+    ],
+    "leggiApplicabili": [
+      "D.Lgs 81/08"
+    ]
+  },
+  {
+    "codice": "96",
+    "slug": "96-altri-servizi-personali",
+    "settore": "Altre attività di servizi per la persona",
+    "descrizione": "Parrucchieri, estetisti, lavanderie, pompe funebri, saune",
+    "descrizioneBreve": "Corsi obbligatori per parrucchieri, estetisti e servizi alla persona",
+    "rischioAteco": "basso",
+    "corsiObbligatori": [
+      "sicurezza-lavoratori-base",
+      "primo-soccorso-gruppo-b",
+      "antincendio-basso",
+      "movimentazione-manuale-carichi"
+    ],
+    "leggiApplicabili": [
+      "D.Lgs 81/08"
+    ]
+  }
+]
