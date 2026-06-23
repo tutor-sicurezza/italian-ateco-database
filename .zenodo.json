@@ -1,0 +1,48 @@
+{
+  "title": "Italian ATECO Database — codici classificazione attività economiche",
+  "description": "Database strutturato dei codici ATECO 2007 e 2025 (classificazione ISTAT delle attività economiche italiane) in formato JSON e CSV. Include gerarchia a 6 livelli (sezione, divisione, gruppo, classe, categoria, sottocategoria), descrizioni ufficiali, mapping verso codici NACE Rev. 2 europei. Utile per applicazioni di compliance, anagrafica aziendale, sicurezza sul lavoro (D.Lgs 81/08).",
+  "upload_type": "dataset",
+  "license": "CC-BY-SA-4.0",
+  "access_right": "open",
+  "language": "ita",
+  "keywords": [
+    "italy",
+    "ateco",
+    "istat",
+    "nace",
+    "classification",
+    "economic-activities",
+    "open-data",
+    "compliance",
+    "anagrafica"
+  ],
+  "creators": [
+    {
+      "name": "123Formazione",
+      "affiliation": "CDS SERVICE SIC-LAV S.R.L.",
+      "orcid": null
+    }
+  ],
+  "communities": [
+    {"identifier": "open-data"},
+    {"identifier": "legal-informatics"}
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/tutor-sicurezza/italian-ateco-database",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://123formazione.com",
+      "relation": "isPartOf",
+      "scheme": "url"
+    }
+  ],
+  "references": [
+    "ISTAT — Classificazione delle attività economiche ATECO 2007 (aggiornamento 2022)",
+    "ISTAT — ATECO 2025 (entrata in vigore 1 aprile 2025)",
+    "Eurostat — NACE Rev. 2 Statistical classification of economic activities"
+  ],
+  "publication_date": "2026-06-23"
+}
